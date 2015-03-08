@@ -19,7 +19,5 @@ Susanne Kunkel (s.kunkel@fz-juelich.de). Unfortunately this is not yet a part of
 generateFig4_lossy can be used to generate Figure 4 by uncommenting a line in script_Fig4.py. This version of code is also required to generate
 figures with different values of B and W correlations.
 
-
-
-
-
+=========================================================================================
+Reference: Bahuguna J, Aertsen A and Kumar A (2015) Existence and Control of Go/No-Go decision transition threshold in the striatum. to appear in Plos Computational Biol. pending minor revision 
